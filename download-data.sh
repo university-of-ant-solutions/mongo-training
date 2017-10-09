@@ -25,6 +25,10 @@ data=(
     "m201/understanding_explain_part_1.js"
     "m201/understanding_explain_part_2.js"
     "m201/understanding_explain_part_2.sh"
+    "m201/optimizing_your_crud_operations.js"
+    "m201/covered_queries.js"
+    "m201/data_type_implications_part_1.js"
+    "m201/data_type_implications_part_2.js"
 )
 
 URL="https://university.mongodb.com/static/MongoDB_2017_M201_September/handouts"
