@@ -1,0 +1,10 @@
+version: "3.2"
+
+services:
+  mongo:
+    image: radiantwf/mongodb-enterprise:3.4.5
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongo:/data
+      - ./data:/backup
